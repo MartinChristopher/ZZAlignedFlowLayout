@@ -1,0 +1,16 @@
+PODS:
+  - ZZAlignedFlowLayout (0.0.1)
+
+DEPENDENCIES:
+  - ZZAlignedFlowLayout (from `../`)
+
+EXTERNAL SOURCES:
+  ZZAlignedFlowLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZAlignedFlowLayout: 42a1b00dcf276c73338f73ec274368248d13f6e3
+
+PODFILE CHECKSUM: 9a38f2c639f4f06fe3730024c8ea5549d720f277
+
+COCOAPODS: 1.16.2
